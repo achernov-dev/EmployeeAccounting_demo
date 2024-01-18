@@ -16,7 +16,7 @@
 - [JUnit5](https://junit.org/junit5/)
 
 ### Database structure
-![img.png](src/screenshots/img.png)
+![img.png](screenshots/img.png)
 
 ## Run
 ### Run host
