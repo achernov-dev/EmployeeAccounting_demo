@@ -1,6 +1,8 @@
 # Employee Accounting App
 
-## Requirements
+## Description
+Simple App to control organisation structure based on employee, title and department relationships.
+### Requirements
 - Company contains multiple departments (like accounting, support, etc.). 
 - Department has a boss with his title(director, engineer, etc.)
 - Department has multiple employees.
