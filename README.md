@@ -29,4 +29,4 @@ Run using `mvn test`
 
 ## Screenshots
 
-![screenshot.png](src%2Fscreenshots%2Fscreenshot.png)
+![screenshot.png](screenshots/screenshot.png)
